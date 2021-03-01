@@ -12,7 +12,7 @@ class MySqlDB {
         $this->db_szerver = "localhost";
         $this->db_felhnev = "root";
         $this->db_jelszo = "";
-        $this->db_nev = "gyakorlo";
+        $this->db_nev = "telefonkonyv";
         $this->kapcsolat();
     }
 
